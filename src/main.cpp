@@ -95,7 +95,7 @@ void segmentationVascularNetwork(CImg<> img, int m_x, int m_y, int m_z) {
 					int size_vect = neighboors.size();
 					
 					for (int inc = 0; inc < size_vect; inc++) {
-						if ()
+						if (size_vect[inc] > current_theta) 
 					}
 				}
 			}
